@@ -69,7 +69,7 @@ PROJECTS=( \
     LoopKit:G7SensorKit:main \
     LoopKit:LibreTransmitter:main \
     LoopKit:LogglyService:dev \
-    LoopKit:Loop:dev \
+    handsomehot:Loop:dev \
     LoopKit:LoopKit:dev \
     LoopKit:LoopOnboarding:dev \
     LoopKit:LoopSupport:dev \
